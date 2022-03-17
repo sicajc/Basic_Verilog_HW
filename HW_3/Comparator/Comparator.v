@@ -7,9 +7,11 @@ output greater;
 output equal;
 output less;
 
-wire [3:0]gt ; //U can actually connect wire like this. 
+wire [3:0]gt ; //U can actually connect wire like this.
 wire [3:0]lt ;
 wire [3:0]eq ;
+
+wire[3:0] hello;
 
 Comparator_lv1 c0(.a(a[3:0]),.b(b[3:0]),.gt(gt[0]),.eq(eq[0]),.lt(lt[0]));
 Comparator_lv1 c1(.a(a[7:4]),.b(b[7:4]),.gt(gt[1]),.eq(eq[1]),.lt(lt[1]));
@@ -20,4 +22,3 @@ Comparator_lv2 r1(.gt(gt[3:0]),.lt(lt[3:0]),.a_gt_b(greater),.a_eq_b(equal),.a_l
 
 
 endmodule
-
