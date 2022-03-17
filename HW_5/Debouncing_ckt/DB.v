@@ -10,6 +10,9 @@
 `define S6 3'b110
 `define S7 3'b111
 `define S8 3'b100
+`define S10 3'b132
+`define S11 3'b110
+
 module DB(input rst,
           input clk,
           input in,
