@@ -1,5 +1,6 @@
 `define STATE_BIT 2'd3
 `define DATA_WIDTH 1'd1
+`define S9 3;b111
 `define S0 3'b000
 `define S1 3'b001
 `define S2 3'b010
@@ -8,6 +9,7 @@
 `define S5 3'b101
 `define S6 3'b110
 `define S7 3'b111
+`define S8 3'b100
 module DB(input rst,
           input clk,
           input in,
@@ -17,13 +19,13 @@ module DB(input rst,
     parameter sb = `STATE_BIT;
     wire[sb-1:0] cur,next;
     reg[sb-1:0]next1;
-    
+
     //State register
     DFF #(sb) state_reg(.clk(clk),.d(next),.q(cur));
-    
+
     //Reset state register
     assign next = rst ? `S0 : next1;
-    
+
     //Next_state_logic
     always@(*)
     begin
@@ -37,7 +39,7 @@ module DB(input rst,
             default:  next1 = `S0;
         endcase
     end
-    
+
     //Output logic
     always@(*)
     begin
@@ -54,7 +56,7 @@ module DB(input rst,
         endcase
     end
 endmodule
-    
+
     module DFF#(parameter n)(input clk,input[n-1:0] d,output reg[n-1:0] q);
         always@(posedge clk)
             q <= d;
