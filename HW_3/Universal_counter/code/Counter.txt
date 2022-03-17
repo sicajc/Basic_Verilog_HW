@@ -1,0 +1,61 @@
+Positive Edge triggered
+@t=0
+clear:1
+mode:0
+incr:1
+pause:0
+clk:0
+Incrementing
+
+@t=80
+clear:0
+mode:0
+incr:1
+pause:1
+clk:0
+Counter Paused
+
+
+@t=90
+clear:1
+mode:0
+incr:1
+pause:0
+clk:0
+decrementing
+
+@t=171
+clear:1
+mode:0
+incr:0
+pause:0
+clk:0
+Value get reseted to 0
+
+@t=190
+clear:0
+mode:1
+incr:1
+pause:0
+clk:1
+Incrementing
+@t=241
+clear:0
+mode:1
+incr:0
+pause:0
+clk:0
+Decrementing
+
+@t=261
+clear:0
+mode:1
+incr:1
+pause:0
+clk:1
+Adding up mode decimal.
+
+Actually this tesetbench cannot test out the whether the 
+mode,i.e. whether it is mode Hex or mode decimal is right or not but anyways~
+
+

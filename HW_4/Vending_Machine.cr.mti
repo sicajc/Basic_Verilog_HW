@@ -1,0 +1,8 @@
+D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/VM_TB.v {1 {vlog -work work -stats=none D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/VM_TB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2021.1 Compiler 2021.02 Feb  3 2021
+-- Compiling module VM_TB
+
+Top level modules:
+	VM_TB
+
+} {} {}}

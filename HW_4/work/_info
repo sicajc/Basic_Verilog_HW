@@ -1,0 +1,149 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VHDL/Gate_implementation_and_basic_practices/Basic_building_blocks/Functions_and_tasks
+vEN_FOR_CHANGE_FSM
+Z0 !s110 1638630545
+!i10b 1
+!s100 FFziZGa:nd0j9A9=3XTM20
+I>6L2dRdbbddZb52PWC0ae3
+Z1 dD:/VHDL/BASIC_HDL_HW/HW_4
+w1638630513
+8D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/EN_FOR_CHANGE_FSM.v
+FD:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/EN_FOR_CHANGE_FSM.v
+!i122 371
+L0 2 50
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1638630545.000000
+!s107 D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/EN_FOR_CHANGE_FSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/EN_FOR_CHANGE_FSM.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@e@n_@f@o@r_@c@h@a@n@g@e_@f@s@m
+vEN_FOR_CHANGE_FSM_TB
+Z7 !s110 1638629697
+!i10b 1
+!s100 b5E@CRMUo[Jk>HQUR@NfB3
+Iz5ROLYFYlHSlijQBjILI@1
+R1
+w1638439050
+8D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/EN_FOR_CHANGE_FSM_TB.v
+FD:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/EN_FOR_CHANGE_FSM_TB.v
+!i122 365
+L0 1 34
+R2
+R3
+r1
+!s85 0
+31
+Z8 !s108 1638629697.000000
+!s107 D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/EN_FOR_CHANGE_FSM_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/EN_FOR_CHANGE_FSM_TB.v|
+!i113 1
+R5
+R6
+n@e@n_@f@o@r_@c@h@a@n@g@e_@f@s@m_@t@b
+vPRICE_FSM
+R0
+!i10b 1
+!s100 RQczCakl_4ELDW??GTH?;2
+I_oDfbB^?P7UN>;cPgMb;o1
+R1
+w1638630521
+8D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/PRICE_FSM.v
+FD:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/PRICE_FSM.v
+!i122 372
+L0 2 196
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/PRICE_FSM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/PRICE_FSM.v|
+!i113 1
+R5
+R6
+n@p@r@i@c@e_@f@s@m
+vPRICE_FSM_TB
+R7
+!i10b 1
+!s100 NGjE]`YTe_GMXTKLniQO@3
+IlN]5<`BaHWFLeSK]MAGXG3
+R1
+w1638553434
+8D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/PRICE_FSM_TB_2.v
+FD:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/PRICE_FSM_TB_2.v
+!i122 366
+L0 1 76
+R2
+R3
+r1
+!s85 0
+31
+R8
+!s107 D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/PRICE_FSM_TB_2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/PRICE_FSM_TB_2.v|
+!i113 1
+R5
+R6
+n@p@r@i@c@e_@f@s@m_@t@b
+vVM
+R0
+!i10b 1
+!s100 _?aPA>1SB=ZcnHmVh7T=c3
+Ic1ZcP5UWXPJ@jiZ=WGH6i2
+R1
+w1638630515
+8D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/VM.v
+FD:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/VM.v
+!i122 373
+L0 1 100
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/VM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/VM.v|
+!i113 1
+R5
+R6
+n@v@m
+vVM_TB
+!s110 1638630546
+!i10b 1
+!s100 d@h1:_>?9`c=znCBCYjBE3
+Il;02ml:5N12XYa2K3oBnG2
+R1
+w1638549554
+8D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/VM_TB.v
+FD:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/VM_TB.v
+!i122 374
+L0 1 64
+R2
+R3
+r1
+!s85 0
+31
+R4
+!s107 D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/VM_TB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VHDL/BASIC_HDL_HW/HW_4/Vending_machine/VM_TB.v|
+!i113 1
+R5
+R6
+n@v@m_@t@b

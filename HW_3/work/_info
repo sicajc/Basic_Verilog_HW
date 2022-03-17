@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2021.1 2021.02, Feb  3 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/VHDL
+vCLA_tb
+Z0 !s110 1637404065
+!i10b 1
+!s100 2PClkR;cV0KCDNh;`K3lB3
+ILi;lKdT^<`H76>bgiEH0h3
+Z1 dD:/VHDL/HW_3
+w1637403583
+8D:/VHDL/Gate_implementation_and_basic_practices/Basic_building_blocks/Full_Adder/Parrallel_Adder_tb.v
+FD:/VHDL/Gate_implementation_and_basic_practices/Basic_building_blocks/Full_Adder/Parrallel_Adder_tb.v
+!i122 8
+L0 1 21
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 OV;L;2021.1;73
+r1
+!s85 0
+31
+Z4 !s108 1637404065.000000
+!s107 D:/VHDL/Gate_implementation_and_basic_practices/Basic_building_blocks/Full_Adder/Parrallel_Adder_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/VHDL/Gate_implementation_and_basic_practices/Basic_building_blocks/Full_Adder/Parrallel_Adder_tb.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@c@l@a_tb
+vFA
+R0
+!i10b 1
+!s100 1??=Oz6mT6EX^5L0zSk?j2
+IX0SKnNKALHXAh[_dc>N7?2
+R1
+Z7 w1637404060
+Z8 8D:/VHDL/Gate_implementation_and_basic_practices/Basic_building_blocks/Full_Adder/Parrallel_adder_revist.v
+Z9 FD:/VHDL/Gate_implementation_and_basic_practices/Basic_building_blocks/Full_Adder/Parrallel_adder_revist.v
+!i122 7
+L0 40 8
+R2
+R3
+r1
+!s85 0
+31
+R4
+Z10 !s107 D:/VHDL/Gate_implementation_and_basic_practices/Basic_building_blocks/Full_Adder/Parrallel_adder_revist.v|
+Z11 !s90 -reportprogress|300|-work|work|-stats=none|D:/VHDL/Gate_implementation_and_basic_practices/Basic_building_blocks/Full_Adder/Parrallel_adder_revist.v|
+!i113 1
+R5
+R6
+n@f@a
+vHA
+R0
+!i10b 1
+!s100 ?L1J^M`^ET3;A]fFbHflh1
+IkkSVcO=AF7kk=69^J<edC0
+R1
+R7
+R8
+R9
+!i122 7
+L0 31 8
+R2
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+n@h@a
+vParrallel_Adder
+R0
+!i10b 1
+!s100 KWdbHQJC8;>1K_d8O@7NY1
+II:A9];iEPN1UIMmO[N>T_2
+R1
+R7
+R8
+R9
+!i122 7
+L0 1 27
+R2
+R3
+r1
+!s85 0
+31
+R4
+R10
+R11
+!i113 1
+R5
+R6
+n@parrallel_@adder
